@@ -1,9 +1,132 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "items":[{
+  "id": "m1",
+  "name": "Sushi",
+  "description": "Finest fish and veggies",
+  "price": 22.99
+},
+{
+  
+  "id": "m2",
+  "name": "Schnitzel",
+  "description": "A german specialty",
+  "price": 16.5
+},
+{
+  "id": "m3",
+  "name": "Barbecue Burger",
+  "description": "American, raw, meaty",
+  "price": 12.99
+},
+{
+  "id": "m4",
+  "name": "Green Bowl",
+  "description": "Healthy...and green...",
+  "price": 18.99
+},
+{
+  "id": "m5",
+  "name": "Masala Dosa",
+  "description": "Speciality of Madras Cafe",
+  "price": 25.78
+},
+{
+  "id": "m6",
+  "name": "Cheese Pizza",
+  "description": "Italian Special",
+  "price": 30.45
+},
+{
+  "id": "m7",
+  "name": "Chole Bhature",
+  "description": "Healthy...and green...",
+  "price": 45.23
+},
+{
+  "id": "m8",
+  "name": "Sushi",
+  "description": "Finest fish and veggies",
+  "price": 22.99
+},
+{
+  
+  "id": "m9",
+  "name": "Schnitzel",
+  "description": "A german specialty",
+  "price": 16.5
+},
+{
+  "id": "m10",
+  "name": "Barbecue Burger",
+  "description": "American, raw, meaty",
+  "price": 12.99
+},
+{
+  "id": "m11",
+  "name": "Green Bowl",
+  "description": "Healthy...and green...",
+  "price": 18.99
+},
+{
+  "id": "m12",
+  "name": "Masala Dosa",
+  "description": "Speciality of Madras Cafe",
+  "price": 25.78
+},
+{
+  "id": "m13",
+  "name": "Cheese Pizza",
+  "description": "Italian Special",
+  "price": 30.45
+},
+{
+  "id": "m14",
+  "name": "Rajma Chawal",
+  "description": "Healthy...and green...",
+  "price": 45.23
+},
+{
+  "id": "m15",
+  "name": "Sushi",
+  "description": "Finest fish and veggies",
+  "price": 22.99
+},
+{
+  
+  "id": "m16",
+  "name": "Schnitzel",
+  "description": "A german specialty",
+  "price": 16.5
+},
+{
+  "id": "m17",
+  "name": "Barbecue Burger",
+  "description": "American, raw, meaty",
+  "price": 12.99
+},
+{
+  "id": "m18",
+  "name": "Green Bowl",
+  "description": "Healthy...and green...",
+  "price": 18.99
+},
+{
+  "id": "m19",
+  "name": "Masala Dosa",
+  "description": "Speciality of Madras Cafe",
+  "price": 25.78
+},
+{
+  "id": "m20",
+  "name": "Cheese Pizza",
+  "description": "Italian Special",
+  "price": 30.45
+},
+{
+  "id": "m21",
+  "name": "Cake",
+  "description": "Healthy...and green...",
+  "price": 45.23
+}
+]
 }
